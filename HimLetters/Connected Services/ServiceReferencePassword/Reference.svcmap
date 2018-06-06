@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ae80c1a7-7791-48c7-af95-479ed97138c0" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49962/ServicePassword.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicePassword.xsd" MetadataType="Schema" ID="4e2df079-1309-41eb-bb7f-80d67791d523" SourceId="1" SourceUrl="http://localhost:49962/ServicePassword.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicePassword.disco" MetadataType="Disco" ID="edd57e69-0704-4637-8fb2-703e78b8c14f" SourceId="1" SourceUrl="http://localhost:49962/ServicePassword.svc?disco" />
+    <MetadataFile FileName="ServicePassword1.xsd" MetadataType="Schema" ID="a3495097-3468-4881-a1e6-77a6f0fab5db" SourceId="1" SourceUrl="http://localhost:49962/ServicePassword.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicePassword.wsdl" MetadataType="Wsdl" ID="d6cc4b13-e7ba-4450-8d4f-a6d196b655d9" SourceId="1" SourceUrl="http://localhost:49962/ServicePassword.svc?wsdl" />
+    <MetadataFile FileName="ServicePassword2.xsd" MetadataType="Schema" ID="93711c09-118c-4a8c-ab07-a85f5480c4fe" SourceId="1" SourceUrl="http://localhost:49962/ServicePassword.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

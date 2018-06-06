@@ -1,0 +1,13 @@
+c:\users\kd056573\source\repos\HimLetters\HimLetters\bin\Debug\HimLetters.exe.config
+c:\users\kd056573\source\repos\HimLetters\HimLetters\bin\Debug\HimLetters.exe
+c:\users\kd056573\source\repos\HimLetters\HimLetters\bin\Debug\HimLetters.pdb
+c:\users\kd056573\source\repos\HimLetters\HimLetters\obj\Debug\HimLetters.csprojResolveAssemblyReference.cache
+c:\users\kd056573\source\repos\HimLetters\HimLetters\obj\Debug\HimLetters.Properties.Resources.resources
+c:\users\kd056573\source\repos\HimLetters\HimLetters\obj\Debug\HimLetters.csproj.GenerateResource.Cache
+c:\users\kd056573\source\repos\HimLetters\HimLetters\obj\Debug\HimLetters.csproj.CoreCompileInputs.cache
+c:\users\kd056573\source\repos\HimLetters\HimLetters\obj\Debug\HimLetters.exe
+c:\users\kd056573\source\repos\HimLetters\HimLetters\obj\Debug\HimLetters.pdb
+c:\users\kd056573\source\repos\HimLetters\HimLetters\obj\Debug\HimLetters.MainForm.resources
+C:\Users\KD056573\source\repos\HimLetters\HimLetters\bin\Debug\EASendMail.dll
+C:\Users\KD056573\source\repos\HimLetters\HimLetters\obj\Debug\HimLetters.LoginForm.resources
+C:\Users\KD056573\source\repos\HimLetters\HimLetters\obj\Debug\HimLetters.csproj.CopyComplete

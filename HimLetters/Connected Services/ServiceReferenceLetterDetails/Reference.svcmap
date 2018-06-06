@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c9a92e2a-05db-4c76-bea0-99e594274f94" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49962/ServiceLetterDetails.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceLetterDetails.wsdl" MetadataType="Wsdl" ID="1507f92e-0f30-4387-9364-525939b376ea" SourceId="1" SourceUrl="http://localhost:49962/ServiceLetterDetails.svc?wsdl" />
+    <MetadataFile FileName="ServiceLetterDetails.xsd" MetadataType="Schema" ID="e554df17-4f49-442a-b8b8-b83aedeaca77" SourceId="1" SourceUrl="http://localhost:49962/ServiceLetterDetails.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceLetterDetails.disco" MetadataType="Disco" ID="ca717650-4b59-46c5-afb2-e22dc5270ef0" SourceId="1" SourceUrl="http://localhost:49962/ServiceLetterDetails.svc?disco" />
+    <MetadataFile FileName="ServiceLetterDetails1.xsd" MetadataType="Schema" ID="7db3edc0-130c-45e8-b024-9ddf00cea235" SourceId="1" SourceUrl="http://localhost:49962/ServiceLetterDetails.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceLetterDetails2.xsd" MetadataType="Schema" ID="15d78ce9-9ece-4ceb-844d-967aa7f5889a" SourceId="1" SourceUrl="http://localhost:49962/ServiceLetterDetails.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/HimLettersWCFService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/HimLettersWCFService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfgetFacility_Results">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="getFacility_Results" nillable="true" type="tns:getFacility_Results" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfgetFacility_Results" nillable="true" type="tns:ArrayOfgetFacility_Results" />
+  <xs:complexType name="getFacility_Results">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Facility_Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="getFacility_Results" nillable="true" type="tns:getFacility_Results" />
+  <xs:complexType name="FacilityException">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FacilityException" nillable="true" type="tns:FacilityException" />
+</xs:schema>

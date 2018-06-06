@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8de0ed47-9d16-420f-9a9c-0a0de0a13445" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49962/ServicePhysicianAll.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicePhysicianAll.disco" MetadataType="Disco" ID="6e976169-e9f7-4002-ac18-fea6c08cc9b8" SourceId="1" SourceUrl="http://localhost:49962/ServicePhysicianAll.svc?disco" />
+    <MetadataFile FileName="ServicePhysicianAll.xsd" MetadataType="Schema" ID="74f658d8-3727-4871-9b83-0f4275c8a40d" SourceId="1" SourceUrl="http://localhost:49962/ServicePhysicianAll.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicePhysicianAll1.xsd" MetadataType="Schema" ID="59ac4a05-c9cd-4fe0-8549-fe7793940aa9" SourceId="1" SourceUrl="http://localhost:49962/ServicePhysicianAll.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicePhysicianAll.wsdl" MetadataType="Wsdl" ID="0e510c69-0b2a-4ac0-90bc-e6106a9dc30e" SourceId="1" SourceUrl="http://localhost:49962/ServicePhysicianAll.svc?wsdl" />
+    <MetadataFile FileName="ServicePhysicianAll2.xsd" MetadataType="Schema" ID="8b5f616e-83e3-4ada-82ae-ecb2e0e6f4ca" SourceId="1" SourceUrl="http://localhost:49962/ServicePhysicianAll.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
